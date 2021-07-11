@@ -1,4 +1,5 @@
 # GametopiaFPS
+FPS Project for a Gametopia course
 Proyecto FPS para el curso de Gametopia
 
 My first ever 3D FPS game with Unity.
